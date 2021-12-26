@@ -8,7 +8,7 @@ querystring = {
 		Python Script using REST API.",
 	"language": "english",
 	"route": "q",
-	"numbers": "XXXXXXXX98, YYYYYYYY89"}
+	"numbers": "+8801717003733, YYYYYYYY89"}
 
 headers = {
 	'cache-control': "no-cache"
